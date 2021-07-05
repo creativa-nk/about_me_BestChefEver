@@ -117,7 +117,7 @@
    background-repeat: no-repeat;
     background-position: bottom center;  
     background-size: 70vh;  
-    background-image: url('./img/food_parrafo2.png');
+    background-image: url('./img/parrafo3.png');
   }
 
   .parallax__layer--base{
@@ -165,7 +165,7 @@
    background-repeat: no-repeat;
     background-position: bottom center;  
     background-size: 80vh;  
-    background-image: url('./img/frase_last.png');
+    background-image: url('./img/parrafo_last.png');
   }
 
   .parallax__layer--front4{
